@@ -7,7 +7,9 @@
 
 Setup directory structure with files to complete exercises.
 
-Written in Python just because. Will be re written in Go, eventually.
+Written in Python just because.
+
+[Golang Version](https://github.com/odran037/learn-go-by-example/tree/golang)
 
 ---
 
