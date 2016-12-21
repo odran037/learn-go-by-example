@@ -7,7 +7,7 @@
 
 Setup directory structure with files to complete exercises.
 
-Written in Python just because.
+Also written in Python just because.
 
 [Python Version](https://github.com/odran037/learn-go-by-example/tree/python)
 
