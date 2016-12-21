@@ -7,5 +7,46 @@
 
 Setup directory structure with files to complete exercises.
 
-Originally written in [Python](https://github.com/odran037/learn-go-by-example/tree/python)
-Also written in [Golang](https://github.com/odran037/learn-go-by-example/tree/golang)
+Also written in Python just because.
+
+[Python Version](https://github.com/odran037/learn-go-by-example/tree/python)
+
+---
+
+**Start:**
+
+Install **goquery**
+`go get github.com/PuerkitoBio/goquery`
+
+Run program
+`go run start.go [directory_name]`
+
+*Default directory_name is 'learn-go-by-example'. Omit for default*
+
+---
+
+**Structure:**
+
+```
+'--- learn-go-by-example
+    '--- 00-hello-world
+        '--- 00-hello-world.go
+    '--- 01-values
+        '--- 01-values.go
+
+    ...
+
+```
+
+---
+
+**Go Usage:**
+
+Run
+`go run [filename.go]`
+
+Build
+`go build [filename.go]`
+
+Run Build
+`./filename`
