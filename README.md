@@ -9,8 +9,8 @@ Setup directory structure with files to complete exercises.
 
 Originally written in Python just because.
 
-[Python Version](https://github.com/odran037/learn-go-by-example/tree/python)
-[Ruby Version](https://github.com/odran037/learn-go-by-example/tree/ruby)
+>- [Python Version](https://github.com/odran037/learn-go-by-example/tree/python)
+>- [Ruby Version](https://github.com/odran037/learn-go-by-example/tree/ruby)
 
 ---
 
