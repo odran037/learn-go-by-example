@@ -9,7 +9,7 @@ Setup directory structure with files to complete exercises.
 
 Written in Ruby just because.
 
->- [Golang Version](https://github.com/odran037/learn-go-by-example/tree/golang)
+>- [Golang Version](https://github.com/odran037/learn-go-by-example/tree/master)
 >- [Python Version](https://github.com/odran037/learn-go-by-example/tree/python)
 
 ---
