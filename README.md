@@ -7,16 +7,17 @@
 
 Setup directory structure with files to complete exercises.
 
-Written in Ruby just because.
+Written in Node just because.
 
 >- [Golang Version](https://github.com/odran037/learn-go-by-example/tree/master)
 >- [Python Version](https://github.com/odran037/learn-go-by-example/tree/python)
+>- [Ruby Version](https://github.com/odran037/learn-go-by-example/tree/ruby)
 
 ---
 
 **Start:**
 
-`ruby start.rb [directory_name]`
+`node start.js [directory_name]`
 
 *Default directory_name is 'learn-go-by-example'. Omit for default*
 
